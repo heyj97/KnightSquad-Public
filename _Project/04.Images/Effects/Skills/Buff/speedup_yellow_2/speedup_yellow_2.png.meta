@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: e50359234df291e428e1da7b4ea920c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5027114426063299546
+    second: speedup_yellow_2_0
+  - first:
+      213: 5557627231835416971
+    second: speedup_yellow_2_1
+  - first:
+      213: -7897063454154089386
+    second: speedup_yellow_2_2
+  - first:
+      213: 53033258381644084
+    second: speedup_yellow_2_3
+  - first:
+      213: -4098587241468555916
+    second: speedup_yellow_2_4
+  - first:
+      213: 5125337666880187306
+    second: speedup_yellow_2_5
+  - first:
+      213: 5112407808340469715
+    second: speedup_yellow_2_6
+  - first:
+      213: -4780164656507685482
+    second: speedup_yellow_2_7
+  - first:
+      213: 836581858664553298
+    second: speedup_yellow_2_8
+  - first:
+      213: 5390192301969282713
+    second: speedup_yellow_2_9
+  - first:
+      213: -4913436432884057497
+    second: speedup_yellow_2_10
+  - first:
+      213: 4332220658235195359
+    second: speedup_yellow_2_11
+  - first:
+      213: -1403282952382388863
+    second: speedup_yellow_2_12
+  - first:
+      213: -5084428217903871449
+    second: speedup_yellow_2_13
+  - first:
+      213: -5899641209721755898
+    second: speedup_yellow_2_14
+  - first:
+      213: -7552877494748766053
+    second: speedup_yellow_2_15
+  - first:
+      213: -5979904210602170693
+    second: speedup_yellow_2_16
+  - first:
+      213: -2261178267383871905
+    second: speedup_yellow_2_17
+  - first:
+      213: -9156338198816545158
+    second: speedup_yellow_2_18
+  - first:
+      213: 3025928687519611023
+    second: speedup_yellow_2_19
+  - first:
+      213: -4417196631383301936
+    second: speedup_yellow_2_20
+  - first:
+      213: -488158353785898338
+    second: speedup_yellow_2_21
+  - first:
+      213: -4595133991768408918
+    second: speedup_yellow_2_22
+  - first:
+      213: 1996033086864584462
+    second: speedup_yellow_2_23
+  - first:
+      213: -5152762339199371451
+    second: speedup_yellow_2_24
+  - first:
+      213: 536777249940541373
+    second: speedup_yellow_2_25
+  - first:
+      213: 5670670248340094805
+    second: speedup_yellow_2_26
+  - first:
+      213: -2642355934277007633
+    second: speedup_yellow_2_27
+  - first:
+      213: -3536882235250721999
+    second: speedup_yellow_2_28
+  - first:
+      213: 4777681486396161209
+    second: speedup_yellow_2_29
+  - first:
+      213: -3503815913271204502
+    second: speedup_yellow_2_30
+  - first:
+      213: -8483099563783869937
+    second: speedup_yellow_2_31
+  - first:
+      213: 4901443982838278517
+    second: speedup_yellow_2_32
+  - first:
+      213: -8966165917270117075
+    second: speedup_yellow_2_33
+  - first:
+      213: 2378289253686343238
+    second: speedup_yellow_2_34
+  - first:
+      213: 7694792294289346208
+    second: speedup_yellow_2_35
+  - first:
+      213: 8682418332441126256
+    second: speedup_yellow_2_36
+  - first:
+      213: -5089646860121506121
+    second: speedup_yellow_2_37
+  - first:
+      213: 6765525318661937381
+    second: speedup_yellow_2_38
+  - first:
+      213: -2372349134767088876
+    second: speedup_yellow_2_39
+  - first:
+      213: -2605557999866894666
+    second: speedup_yellow_2_40
+  - first:
+      213: 6707853755620290393
+    second: speedup_yellow_2_41
+  - first:
+      213: 5826927108966028723
+    second: speedup_yellow_2_42
+  - first:
+      213: -7235509947970318736
+    second: speedup_yellow_2_43
+  - first:
+      213: -7919891730318024877
+    second: speedup_yellow_2_44
+  - first:
+      213: -1130089577668621685
+    second: speedup_yellow_2_45
+  - first:
+      213: 6655632758629604032
+    second: speedup_yellow_2_46
+  - first:
+      213: 3159568311250586197
+    second: speedup_yellow_2_47
+  - first:
+      213: 8305208753324678824
+    second: speedup_yellow_2_48
+  - first:
+      213: 5869344830609290020
+    second: speedup_yellow_2_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speedup_yellow_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3aeba8fe5e3c540800000000000000
+      internalID: 5027114426063299546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8966939588a02d40800000000000000
+      internalID: 5557627231835416971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1d6ef0aef76290800000000000000
+      internalID: -7897063454154089386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4319e1fa7796cb000800000000000000
+      internalID: 53033258381644084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d815f7e94ee17c0800000000000000
+      internalID: -4098587241468555916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba25ce37bd02740800000000000000
+      internalID: 5125337666880187306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72113a0dbe2f640800000000000000
+      internalID: 5112407808340469715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957bf0429179adb0800000000000000
+      internalID: -4780164656507685482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b9c3f94c22c9b00800000000000000
+      internalID: 836581858664553298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9969ce5175fcdca40800000000000000
+      internalID: 5390192301969282713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76abb77c897ffcbb0800000000000000
+      internalID: -4913436432884057497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfb7be4cb32f1c30800000000000000
+      internalID: 4332220658235195359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185e2e7f699868ce0800000000000000
+      internalID: -1403282952382388863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a0ed9697b7079b0800000000000000
+      internalID: -5084428217903871449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076740d393402ea0800000000000000
+      internalID: -5899641209721755898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_yellow_2_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9025757fe9ce2790800000000000000
+      internalID: -7552877494748766053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 372482c3fe7d81e46a7ef3b886bd992b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      speedup_yellow_2_0: 5027114426063299546
+      speedup_yellow_2_1: 5557627231835416971
+      speedup_yellow_2_10: -4913436432884057497
+      speedup_yellow_2_11: 4332220658235195359
+      speedup_yellow_2_12: -1403282952382388863
+      speedup_yellow_2_13: -5084428217903871449
+      speedup_yellow_2_14: -5899641209721755898
+      speedup_yellow_2_15: -7552877494748766053
+      speedup_yellow_2_2: -7897063454154089386
+      speedup_yellow_2_3: 53033258381644084
+      speedup_yellow_2_4: -4098587241468555916
+      speedup_yellow_2_5: 5125337666880187306
+      speedup_yellow_2_6: 5112407808340469715
+      speedup_yellow_2_7: -4780164656507685482
+      speedup_yellow_2_8: 836581858664553298
+      speedup_yellow_2_9: 5390192301969282713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

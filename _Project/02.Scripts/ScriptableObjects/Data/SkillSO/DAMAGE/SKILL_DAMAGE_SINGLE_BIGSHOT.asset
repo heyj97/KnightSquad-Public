@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53f6b3d90c0aad448715c466b23f379, type: 3}
+  m_Name: SKILL_DAMAGE_SINGLE_BIGSHOT
+  m_EditorClassIdentifier: 
+  skillId: SKILL_DAMAGE_SINGLE_BIGSHOT
+  skillName: "\uAC70\uBCD1\uCC0D\uAE30"
+  description: "\uC120\uD0DD\uD55C \uC801 \uBAAC\uC2A4\uD130\uC5D0\uAC8C \uACF5\uACA9\uB825\uC758
+    400.0% \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4."
+  skillIcon: {fileID: -2281531599167046365, guid: 42d1264b0e0ca44459ec8c4c7eec7014, type: 3}
+  skillEffectPrefab: {fileID: 3456531213591289105, guid: 54b9f93d09e63754b8e13c1ad61ada73, type: 3}
+  skillType: 0
+  skillBuffStat: 0
+  skillTargetType: 0
+  effectMultiplier: 4
+  buffTime: 0
+  cooldown: 10

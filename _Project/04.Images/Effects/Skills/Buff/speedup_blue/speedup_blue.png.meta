@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 4e37867d4499fc349848ed7208a89702
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8412633674202249569
+    second: speedup_blue_0
+  - first:
+      213: -956548886083691320
+    second: speedup_blue_1
+  - first:
+      213: -3856116867557280771
+    second: speedup_blue_2
+  - first:
+      213: -5564889904881441077
+    second: speedup_blue_3
+  - first:
+      213: -2870296437451599811
+    second: speedup_blue_4
+  - first:
+      213: 6358978700374189810
+    second: speedup_blue_5
+  - first:
+      213: -7606748656822106748
+    second: speedup_blue_6
+  - first:
+      213: -1412394288775531405
+    second: speedup_blue_7
+  - first:
+      213: -5740795123676726862
+    second: speedup_blue_8
+  - first:
+      213: 4305121284836015833
+    second: speedup_blue_9
+  - first:
+      213: 1885318290548049043
+    second: speedup_blue_10
+  - first:
+      213: 6540462077234483014
+    second: speedup_blue_11
+  - first:
+      213: 7347674767113506497
+    second: speedup_blue_12
+  - first:
+      213: -2748703088153993669
+    second: speedup_blue_13
+  - first:
+      213: -8688009539713088915
+    second: speedup_blue_14
+  - first:
+      213: -6693413785809889632
+    second: speedup_blue_15
+  - first:
+      213: -4786675621287351290
+    second: speedup_blue_16
+  - first:
+      213: 418023582071229450
+    second: speedup_blue_17
+  - first:
+      213: -1351992994051998264
+    second: speedup_blue_18
+  - first:
+      213: 6824407058011666567
+    second: speedup_blue_19
+  - first:
+      213: -8796577843091997354
+    second: speedup_blue_20
+  - first:
+      213: -3928013839635892122
+    second: speedup_blue_21
+  - first:
+      213: 7288712299751390810
+    second: speedup_blue_22
+  - first:
+      213: 3223797484770451051
+    second: speedup_blue_23
+  - first:
+      213: -6848540764189656880
+    second: speedup_blue_24
+  - first:
+      213: 3331745445275691719
+    second: speedup_blue_25
+  - first:
+      213: 8082650568050478111
+    second: speedup_blue_26
+  - first:
+      213: -3577352028756506617
+    second: speedup_blue_27
+  - first:
+      213: 9038088494700029689
+    second: speedup_blue_28
+  - first:
+      213: -26293138317117103
+    second: speedup_blue_29
+  - first:
+      213: -432353581060067624
+    second: speedup_blue_30
+  - first:
+      213: -446999896730946310
+    second: speedup_blue_31
+  - first:
+      213: 3158027980727871378
+    second: speedup_blue_32
+  - first:
+      213: -696914861311459572
+    second: speedup_blue_33
+  - first:
+      213: 8510455190493003402
+    second: speedup_blue_34
+  - first:
+      213: 1943230623761065665
+    second: speedup_blue_35
+  - first:
+      213: 3077651198172489783
+    second: speedup_blue_36
+  - first:
+      213: -4662114134646931769
+    second: speedup_blue_37
+  - first:
+      213: 3031334113213145592
+    second: speedup_blue_38
+  - first:
+      213: 1652389577224483347
+    second: speedup_blue_39
+  - first:
+      213: 5163178129342364735
+    second: speedup_blue_40
+  - first:
+      213: 2108376732394380101
+    second: speedup_blue_41
+  - first:
+      213: 8987534875881793647
+    second: speedup_blue_42
+  - first:
+      213: -7514298570947101835
+    second: speedup_blue_43
+  - first:
+      213: -3783911874670225958
+    second: speedup_blue_44
+  - first:
+      213: -906293538877231941
+    second: speedup_blue_45
+  - first:
+      213: -260679526445917154
+    second: speedup_blue_46
+  - first:
+      213: 125063491506952016
+    second: speedup_blue_47
+  - first:
+      213: -5498541046481738750
+    second: speedup_blue_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speedup_blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169705031cdafb470800000000000000
+      internalID: 8412633674202249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9faa2bd7a9b2f0800000000000000
+      internalID: -956548886083691320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df33bd8b3225c7ac0800000000000000
+      internalID: -3856116867557280771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc662659d1a85c2b0800000000000000
+      internalID: -5564889904881441077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30d0adf898aa28d0800000000000000
+      internalID: -2870296437451599811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6241acf61af3850800000000000000
+      internalID: 6358978700374189810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485407e16666f6690800000000000000
+      internalID: -7606748656822106748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3747eb6a0ea266ce0800000000000000
+      internalID: -1412394288775531405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b934f440499450b0800000000000000
+      internalID: -5740795123676726862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debf91cffcdebb30800000000000000
+      internalID: 4305121284836015833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394c9a41ffef92a10800000000000000
+      internalID: 1885318290548049043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f897c3b9364ca50800000000000000
+      internalID: 6540462077234483014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec6e2654f28f560800000000000000
+      internalID: 7347674767113506497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3edf85ca15aad9d0800000000000000
+      internalID: -2748703088153993669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62423cca5dfd6780800000000000000
+      internalID: -8688009539713088915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedup_blue_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6591200a73c13a0800000000000000
+      internalID: -6693413785809889632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f1ce75f7b882ea4ea481469feeaa767
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      speedup_blue_0: 8412633674202249569
+      speedup_blue_1: -956548886083691320
+      speedup_blue_10: 1885318290548049043
+      speedup_blue_11: 6540462077234483014
+      speedup_blue_12: 7347674767113506497
+      speedup_blue_13: -2748703088153993669
+      speedup_blue_14: -8688009539713088915
+      speedup_blue_15: -6693413785809889632
+      speedup_blue_2: -3856116867557280771
+      speedup_blue_3: -5564889904881441077
+      speedup_blue_4: -2870296437451599811
+      speedup_blue_5: 6358978700374189810
+      speedup_blue_6: -7606748656822106748
+      speedup_blue_7: -1412394288775531405
+      speedup_blue_8: -5740795123676726862
+      speedup_blue_9: 4305121284836015833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

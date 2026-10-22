@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: b2b06f1b71dcc23429044e09c5bdb5ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3182555548504598684
+    second: arrow_rain_01_0
+  - first:
+      213: -9162321000836860985
+    second: arrow_rain_01_1
+  - first:
+      213: -1566329658680072985
+    second: arrow_rain_01_2
+  - first:
+      213: -6850627327200789921
+    second: arrow_rain_01_3
+  - first:
+      213: 551155325636708312
+    second: arrow_rain_01_4
+  - first:
+      213: -3890051236255933292
+    second: arrow_rain_01_5
+  - first:
+      213: 7400554574872198782
+    second: arrow_rain_01_6
+  - first:
+      213: -2252483764075068722
+    second: arrow_rain_01_7
+  - first:
+      213: 2585644143963057953
+    second: arrow_rain_01_8
+  - first:
+      213: 705679381216571045
+    second: arrow_rain_01_9
+  - first:
+      213: 5276481713811543896
+    second: arrow_rain_01_10
+  - first:
+      213: 7505429595088106528
+    second: arrow_rain_01_11
+  - first:
+      213: -7230506659845896250
+    second: arrow_rain_01_12
+  - first:
+      213: -3679365300225314428
+    second: arrow_rain_01_13
+  - first:
+      213: -741928978159043043
+    second: arrow_rain_01_14
+  - first:
+      213: -5819582660711526169
+    second: arrow_rain_01_15
+  - first:
+      213: -4732069531994509327
+    second: arrow_rain_01_16
+  - first:
+      213: 3952038096263356098
+    second: arrow_rain_01_17
+  - first:
+      213: -547204537829402601
+    second: arrow_rain_01_18
+  - first:
+      213: -6220218054979706396
+    second: arrow_rain_01_19
+  - first:
+      213: -7795382514713218911
+    second: arrow_rain_01_20
+  - first:
+      213: 459169534501647494
+    second: arrow_rain_01_21
+  - first:
+      213: 5827746070227093514
+    second: arrow_rain_01_22
+  - first:
+      213: -6146395380658908020
+    second: arrow_rain_01_23
+  - first:
+      213: 5364995463345049111
+    second: arrow_rain_01_24
+  - first:
+      213: -3932421445866196573
+    second: arrow_rain_01_25
+  - first:
+      213: -2825691676447794750
+    second: arrow_rain_01_26
+  - first:
+      213: 4596780715911132658
+    second: arrow_rain_01_27
+  - first:
+      213: -6443085360910104926
+    second: arrow_rain_01_28
+  - first:
+      213: -6912422103424074116
+    second: arrow_rain_01_29
+  - first:
+      213: -2058241442096803951
+    second: arrow_rain_01_30
+  - first:
+      213: -8608757781362002891
+    second: arrow_rain_01_31
+  - first:
+      213: -5898575956663461459
+    second: arrow_rain_01_32
+  - first:
+      213: 7008634057224177698
+    second: arrow_rain_01_33
+  - first:
+      213: -772877417383359081
+    second: arrow_rain_01_34
+  - first:
+      213: -3339035861795804520
+    second: arrow_rain_01_35
+  - first:
+      213: 2246125545786227094
+    second: arrow_rain_01_36
+  - first:
+      213: 3260919229018389664
+    second: arrow_rain_01_37
+  - first:
+      213: -7197623791768858578
+    second: arrow_rain_01_38
+  - first:
+      213: -2059056691309817474
+    second: arrow_rain_01_39
+  - first:
+      213: -2053766639147594904
+    second: arrow_rain_01_40
+  - first:
+      213: -922013456857449719
+    second: arrow_rain_01_41
+  - first:
+      213: 3629610215415370185
+    second: arrow_rain_01_42
+  - first:
+      213: 4218778809103047627
+    second: arrow_rain_01_43
+  - first:
+      213: 2391520489374919853
+    second: arrow_rain_01_44
+  - first:
+      213: -2553077082493306857
+    second: arrow_rain_01_45
+  - first:
+      213: -3807419228714378850
+    second: arrow_rain_01_46
+  - first:
+      213: 6634297130170525692
+    second: arrow_rain_01_47
+  - first:
+      213: -8215170763931180520
+    second: arrow_rain_01_48
+  - first:
+      213: 3832312949556033808
+    second: arrow_rain_01_49
+  - first:
+      213: 6601602494512204746
+    second: arrow_rain_01_50
+  - first:
+      213: -2809644008842032185
+    second: arrow_rain_01_51
+  - first:
+      213: -8561955204589729443
+    second: arrow_rain_01_52
+  - first:
+      213: -4318124500548627046
+    second: arrow_rain_01_53
+  - first:
+      213: 3563997918167871910
+    second: arrow_rain_01_54
+  - first:
+      213: -6073462909043494088
+    second: arrow_rain_01_55
+  - first:
+      213: 7530504440185018249
+    second: arrow_rain_01_56
+  - first:
+      213: 620140272835922175
+    second: arrow_rain_01_57
+  - first:
+      213: 5854255833911546444
+    second: arrow_rain_01_58
+  - first:
+      213: -6435422808179323423
+    second: arrow_rain_01_59
+  - first:
+      213: -5358356533290219773
+    second: arrow_rain_01_60
+  - first:
+      213: -4310226416785991803
+    second: arrow_rain_01_61
+  - first:
+      213: -124365210794832567
+    second: arrow_rain_01_62
+  - first:
+      213: -7505849968769507021
+    second: arrow_rain_01_63
+  - first:
+      213: 4663057907158397482
+    second: arrow_rain_01_64
+  - first:
+      213: 1271693520383518470
+    second: arrow_rain_01_65
+  - first:
+      213: -1533229170289163092
+    second: arrow_rain_01_66
+  - first:
+      213: -4799188056465919296
+    second: arrow_rain_01_67
+  - first:
+      213: 7872169470608389017
+    second: arrow_rain_01_68
+  - first:
+      213: 5178547073635169914
+    second: arrow_rain_01_69
+  - first:
+      213: -295265956017927188
+    second: arrow_rain_01_70
+  - first:
+      213: 5594400613909960397
+    second: arrow_rain_01_71
+  - first:
+      213: -5246741499492051713
+    second: arrow_rain_01_72
+  - first:
+      213: -3246328083019653203
+    second: arrow_rain_01_73
+  - first:
+      213: 8375128452882577645
+    second: arrow_rain_01_74
+  - first:
+      213: 854254217014466069
+    second: arrow_rain_01_75
+  - first:
+      213: -6131032122059580035
+    second: arrow_rain_01_76
+  - first:
+      213: 7994059786452136234
+    second: arrow_rain_01_77
+  - first:
+      213: 4588316574092298446
+    second: arrow_rain_01_78
+  - first:
+      213: -8249770545753114380
+    second: arrow_rain_01_79
+  - first:
+      213: -2736855498817605856
+    second: arrow_rain_01_80
+  - first:
+      213: -409928177318128540
+    second: arrow_rain_01_81
+  - first:
+      213: -4903563236089249994
+    second: arrow_rain_01_82
+  - first:
+      213: 3217882247898313547
+    second: arrow_rain_01_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrow_rain_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a092d865ba2c20800000000000000
+      internalID: 3182555548504598684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c374030895e8d080800000000000000
+      internalID: -9162321000836860985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e427356977434ae0800000000000000
+      internalID: -1566329658680072985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5afc99fdbeade0a0800000000000000
+      internalID: -6850627327200789921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d704a839d816a700800000000000000
+      internalID: 551155325636708312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c55e0d203c30ac0800000000000000
+      internalID: -3890051236255933292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e36201d2d04b660800000000000000
+      internalID: 7400554574872198782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec288f363f19db0e0800000000000000
+      internalID: -2252483764075068722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fac7c46ad02e320800000000000000
+      internalID: 2585644143963057953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae2bba88a31bc900800000000000000
+      internalID: 705679381216571045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857d497a924d93940800000000000000
+      internalID: 5276481713811543896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243ee58374a82860800000000000000
+      internalID: 7505429595088106528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c70ac1708418ab90800000000000000
+      internalID: -7230506659845896250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481fb29e0c440fcc0800000000000000
+      internalID: -3679365300225314428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef248768324b5f0800000000000000
+      internalID: -741928978159043043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_rain_01_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0544f4760bc3fa0800000000000000
+      internalID: -5819582660711526169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8dcfd5175fa4c0a43aa51e1d44174c5d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arrow_rain_01_0: 3182555548504598684
+      arrow_rain_01_1: -9162321000836860985
+      arrow_rain_01_10: 5276481713811543896
+      arrow_rain_01_11: 7505429595088106528
+      arrow_rain_01_12: -7230506659845896250
+      arrow_rain_01_13: -3679365300225314428
+      arrow_rain_01_14: -741928978159043043
+      arrow_rain_01_15: -5819582660711526169
+      arrow_rain_01_2: -1566329658680072985
+      arrow_rain_01_3: -6850627327200789921
+      arrow_rain_01_4: 551155325636708312
+      arrow_rain_01_5: -3890051236255933292
+      arrow_rain_01_6: 7400554574872198782
+      arrow_rain_01_7: -2252483764075068722
+      arrow_rain_01_8: 2585644143963057953
+      arrow_rain_01_9: 705679381216571045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

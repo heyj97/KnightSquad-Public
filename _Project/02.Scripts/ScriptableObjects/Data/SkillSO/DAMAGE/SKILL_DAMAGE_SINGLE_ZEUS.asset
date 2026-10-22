@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53f6b3d90c0aad448715c466b23f379, type: 3}
+  m_Name: SKILL_DAMAGE_SINGLE_ZEUS
+  m_EditorClassIdentifier: 
+  skillId: SKILL_DAMAGE_SINGLE_ZEUS
+  skillName: "\uCC9C\uBC8C"
+  description: "\uC120\uD0DD\uD55C \uC801 \uBAAC\uC2A4\uD130\uC5D0\uAC8C \uACF5\uACA9\uB825\uC758
+    320.0% \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4."
+  skillIcon: {fileID: 4059945435950837572, guid: 940b298571dd0af44888a9eb96339a89, type: 3}
+  skillEffectPrefab: {fileID: 594720114406488765, guid: 6452589ccd385eb449ab6afd37918514, type: 3}
+  skillType: 0
+  skillBuffStat: 0
+  skillTargetType: 0
+  effectMultiplier: 3.2
+  buffTime: 0
+  cooldown: 8

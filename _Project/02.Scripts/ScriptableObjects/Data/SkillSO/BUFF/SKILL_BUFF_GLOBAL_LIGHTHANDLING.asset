@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53f6b3d90c0aad448715c466b23f379, type: 3}
+  m_Name: SKILL_BUFF_GLOBAL_LIGHTHANDLING
+  m_EditorClassIdentifier: 
+  skillId: SKILL_BUFF_GLOBAL_LIGHTHANDLING
+  skillName: "\uAC00\uBCBC\uC6B4 \uC190\uB180\uB9BC"
+  description: "\uC804\uCCB4 \uD30C\uD2F0\uC6D0\uC758 \uACF5\uACA9\uC18D\uB3C4\uB97C
+    9\uCD08\uB3D9\uC548 10% \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+  skillIcon: {fileID: 2325600377298888877, guid: 42d1264b0e0ca44459ec8c4c7eec7014, type: 3}
+  skillEffectPrefab: {fileID: 8215552674817986918, guid: 3c1f6d41379cf2249803971723e168cb, type: 3}
+  skillType: 1
+  skillBuffStat: 3
+  skillTargetType: 2
+  effectMultiplier: 0.1
+  buffTime: 9
+  cooldown: 17

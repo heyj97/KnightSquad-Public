@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: f4a454e1cce1ed34999b9bea1f83954d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6644321370016722537
+    second: assassination_02_0
+  - first:
+      213: -8304320482252414746
+    second: assassination_02_1
+  - first:
+      213: -4475586895978471022
+    second: assassination_02_2
+  - first:
+      213: -3615374392504874221
+    second: assassination_02_3
+  - first:
+      213: 1873296151839560309
+    second: assassination_02_4
+  - first:
+      213: 4476272095201583065
+    second: assassination_02_5
+  - first:
+      213: -7827958199374751840
+    second: assassination_02_6
+  - first:
+      213: 2014631279308562006
+    second: assassination_02_7
+  - first:
+      213: -5555706309953570051
+    second: assassination_02_8
+  - first:
+      213: 5102238505276360311
+    second: assassination_02_9
+  - first:
+      213: 3102772358381016719
+    second: assassination_02_10
+  - first:
+      213: -5456922029657251766
+    second: assassination_02_11
+  - first:
+      213: 5779763896038532229
+    second: assassination_02_12
+  - first:
+      213: 6474077188521742764
+    second: assassination_02_13
+  - first:
+      213: 1261682863505892016
+    second: assassination_02_14
+  - first:
+      213: -4724018010824567550
+    second: assassination_02_15
+  - first:
+      213: -2939906723001413868
+    second: assassination_02_16
+  - first:
+      213: -12447475779903283
+    second: assassination_02_17
+  - first:
+      213: 9010845546798828864
+    second: assassination_02_18
+  - first:
+      213: 8509087826181706561
+    second: assassination_02_19
+  - first:
+      213: -1920110299568030096
+    second: assassination_02_20
+  - first:
+      213: -6993414486128779984
+    second: assassination_02_21
+  - first:
+      213: 1742524848831317795
+    second: assassination_02_22
+  - first:
+      213: 1172004304013834006
+    second: assassination_02_23
+  - first:
+      213: 4478976539233549834
+    second: assassination_02_24
+  - first:
+      213: -2990859056796770832
+    second: assassination_02_25
+  - first:
+      213: 1166638286000341480
+    second: assassination_02_26
+  - first:
+      213: -1831021700581029256
+    second: assassination_02_27
+  - first:
+      213: 722065495684099259
+    second: assassination_02_28
+  - first:
+      213: 6714129243180974984
+    second: assassination_02_29
+  - first:
+      213: -1626634793314133340
+    second: assassination_02_30
+  - first:
+      213: 4140756217978218862
+    second: assassination_02_31
+  - first:
+      213: -9038792394730232812
+    second: assassination_02_32
+  - first:
+      213: -2377086176381811394
+    second: assassination_02_33
+  - first:
+      213: -7850846400608657177
+    second: assassination_02_34
+  - first:
+      213: 3077818424229137629
+    second: assassination_02_35
+  - first:
+      213: -8670161592825396404
+    second: assassination_02_36
+  - first:
+      213: -454530301330168539
+    second: assassination_02_37
+  - first:
+      213: 4646605806210937365
+    second: assassination_02_38
+  - first:
+      213: 6437165123818198220
+    second: assassination_02_39
+  - first:
+      213: 8745707030946810265
+    second: assassination_02_40
+  - first:
+      213: -1507487882934711241
+    second: assassination_02_41
+  - first:
+      213: 4630492557050649966
+    second: assassination_02_42
+  - first:
+      213: 2674408116013279370
+    second: assassination_02_43
+  - first:
+      213: -7550510214565630098
+    second: assassination_02_44
+  - first:
+      213: -5226517566871697323
+    second: assassination_02_45
+  - first:
+      213: -8191044904874952679
+    second: assassination_02_46
+  - first:
+      213: -1935425340324720630
+    second: assassination_02_47
+  - first:
+      213: -4747159466974737046
+    second: assassination_02_48
+  - first:
+      213: 7957122618186265444
+    second: assassination_02_49
+  - first:
+      213: -912512436965962355
+    second: assassination_02_50
+  - first:
+      213: -7319992029773060140
+    second: assassination_02_51
+  - first:
+      213: -9035800340385049744
+    second: assassination_02_52
+  - first:
+      213: -1166795686415082248
+    second: assassination_02_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assassination_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791dd96cae0aac3a0800000000000000
+      internalID: -6644321370016722537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02852058021cc80800000000000000
+      internalID: -8304320482252414746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 926
+        width: 313
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2916fc74e6583e1c0800000000000000
+      internalID: -4475586895978471022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 929
+        width: 313
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b04b4252c93ddc0800000000000000
+      internalID: -3615374392504874221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d089cce84ff910800000000000000
+      internalID: 1873296151839560309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfdb7811c9ee1e30800000000000000
+      internalID: 4476272095201583065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a759a1fd718d5390800000000000000
+      internalID: -7827958199374751840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed39c797865fb10800000000000000
+      internalID: 2014631279308562006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa32d6eb8a26e2b0800000000000000
+      internalID: -5555706309953570051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776415243eacec640800000000000000
+      internalID: 5102238505276360311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86933055034f0b20800000000000000
+      internalID: 3102772358381016719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40a647735e1544b0800000000000000
+      internalID: -5456922029657251766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584210514a8d53050800000000000000
+      internalID: 5779763896038532229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca15c4ed6ea88d950800000000000000
+      internalID: 6474077188521742764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2677231e5628110800000000000000
+      internalID: 1261682863505892016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassination_02_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2051148e5aae07eb0800000000000000
+      internalID: -4724018010824567550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6813434ddc9bc4041a9aac3159216c2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      assassination_02_0: -6644321370016722537
+      assassination_02_1: -8304320482252414746
+      assassination_02_10: 3102772358381016719
+      assassination_02_11: -5456922029657251766
+      assassination_02_12: 5779763896038532229
+      assassination_02_13: 6474077188521742764
+      assassination_02_14: 1261682863505892016
+      assassination_02_15: -4724018010824567550
+      assassination_02_2: -4475586895978471022
+      assassination_02_3: -3615374392504874221
+      assassination_02_4: 1873296151839560309
+      assassination_02_5: 4476272095201583065
+      assassination_02_6: -7827958199374751840
+      assassination_02_7: 2014631279308562006
+      assassination_02_8: -5555706309953570051
+      assassination_02_9: 5102238505276360311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

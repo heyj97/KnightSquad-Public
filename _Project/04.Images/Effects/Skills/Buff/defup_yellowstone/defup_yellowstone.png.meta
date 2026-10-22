@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 303a59e9b009c084ba72abc857f4d008
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5167158475375530952
+    second: defup_yellowstone_0
+  - first:
+      213: 7909929979866109209
+    second: defup_yellowstone_1
+  - first:
+      213: 1308130150784252617
+    second: defup_yellowstone_2
+  - first:
+      213: -7068631822241289378
+    second: defup_yellowstone_3
+  - first:
+      213: 3346623457004824038
+    second: defup_yellowstone_4
+  - first:
+      213: 7018282497889817151
+    second: defup_yellowstone_5
+  - first:
+      213: -7772810704008780751
+    second: defup_yellowstone_6
+  - first:
+      213: -5862885157695104675
+    second: defup_yellowstone_7
+  - first:
+      213: 3574334253628174326
+    second: defup_yellowstone_8
+  - first:
+      213: 4673814301382145822
+    second: defup_yellowstone_9
+  - first:
+      213: -19651678582965304
+    second: defup_yellowstone_10
+  - first:
+      213: 691652497269230364
+    second: defup_yellowstone_11
+  - first:
+      213: 4140573917869135471
+    second: defup_yellowstone_12
+  - first:
+      213: 4141370983161228945
+    second: defup_yellowstone_13
+  - first:
+      213: 2991305724978111399
+    second: defup_yellowstone_14
+  - first:
+      213: 6926652545800258798
+    second: defup_yellowstone_15
+  - first:
+      213: 2279950774748605669
+    second: defup_yellowstone_16
+  - first:
+      213: -1893680906508973925
+    second: defup_yellowstone_17
+  - first:
+      213: -3985426462658737217
+    second: defup_yellowstone_18
+  - first:
+      213: -1724333301848722835
+    second: defup_yellowstone_19
+  - first:
+      213: 5756355879532510497
+    second: defup_yellowstone_20
+  - first:
+      213: 7956538837542592881
+    second: defup_yellowstone_21
+  - first:
+      213: -5042893451072484251
+    second: defup_yellowstone_22
+  - first:
+      213: 3954476391919409398
+    second: defup_yellowstone_23
+  - first:
+      213: -6543394269473031094
+    second: defup_yellowstone_24
+  - first:
+      213: -7422918912809552868
+    second: defup_yellowstone_25
+  - first:
+      213: -6883549924722395567
+    second: defup_yellowstone_26
+  - first:
+      213: 299917022112751344
+    second: defup_yellowstone_27
+  - first:
+      213: 6853531698393513003
+    second: defup_yellowstone_28
+  - first:
+      213: -4264164088178386653
+    second: defup_yellowstone_29
+  - first:
+      213: 2748999697366393118
+    second: defup_yellowstone_30
+  - first:
+      213: 5937724947850353689
+    second: defup_yellowstone_31
+  - first:
+      213: -7674085651122670964
+    second: defup_yellowstone_32
+  - first:
+      213: 4434175965271359326
+    second: defup_yellowstone_33
+  - first:
+      213: 4192588932221747677
+    second: defup_yellowstone_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: defup_yellowstone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ca7115eb09a48b0800000000000000
+      internalID: -5167158475375530952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d1287867b5cd60800000000000000
+      internalID: 7909929979866109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca397df079672210800000000000000
+      internalID: 1308130150784252617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b29431fcc27ed90800000000000000
+      internalID: -7068631822241289378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e523cf8d48917e20800000000000000
+      internalID: 3346623457004824038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3250145fb2f56160800000000000000
+      internalID: 7018282497889817151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e339c8dd612490800000000000000
+      internalID: -7772810704008780751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d595ca01309d2aea0800000000000000
+      internalID: -5862885157695104675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa408e0169a9130800000000000000
+      internalID: 3574334253628174326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17f50c1859bcd040800000000000000
+      internalID: 4673814301382145822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb72d607ee2abff0800000000000000
+      internalID: -19651678582965304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8ebf184e399900800000000000000
+      internalID: 691652497269230364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6656d46a06467930800000000000000
+      internalID: 4140573917869135471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e6f6e97fa197930800000000000000
+      internalID: 4141370983161228945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a9ef45b0438920800000000000000
+      internalID: 2991305724978111399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defup_yellowstone_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4cafa9ac9602060800000000000000
+      internalID: 6926652545800258798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5602b616bee1c194aac7f33aa6919d3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      defup_yellowstone_0: -5167158475375530952
+      defup_yellowstone_1: 7909929979866109209
+      defup_yellowstone_10: -19651678582965304
+      defup_yellowstone_11: 691652497269230364
+      defup_yellowstone_12: 4140573917869135471
+      defup_yellowstone_13: 4141370983161228945
+      defup_yellowstone_14: 2991305724978111399
+      defup_yellowstone_15: 6926652545800258798
+      defup_yellowstone_2: 1308130150784252617
+      defup_yellowstone_3: -7068631822241289378
+      defup_yellowstone_4: 3346623457004824038
+      defup_yellowstone_5: 7018282497889817151
+      defup_yellowstone_6: -7772810704008780751
+      defup_yellowstone_7: -5862885157695104675
+      defup_yellowstone_8: 3574334253628174326
+      defup_yellowstone_9: 4673814301382145822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

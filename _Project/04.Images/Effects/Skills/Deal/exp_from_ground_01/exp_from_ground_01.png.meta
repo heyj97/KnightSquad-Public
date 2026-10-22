@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 5f169d7b9c296004b87c2809f2cc3eb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7484083828162789954
+    second: exp_from_ground_02_0
+  - first:
+      213: -6299878592469166237
+    second: exp_from_ground_02_1
+  - first:
+      213: -1455711899671366841
+    second: exp_from_ground_02_2
+  - first:
+      213: 8775186075200771812
+    second: exp_from_ground_02_3
+  - first:
+      213: 616795528312784601
+    second: exp_from_ground_02_4
+  - first:
+      213: -6586591437465493234
+    second: exp_from_ground_02_5
+  - first:
+      213: -7831835116979914291
+    second: exp_from_ground_02_6
+  - first:
+      213: 2947183067379776697
+    second: exp_from_ground_02_7
+  - first:
+      213: 5598105670844719827
+    second: exp_from_ground_02_8
+  - first:
+      213: -7761491426587989314
+    second: exp_from_ground_02_9
+  - first:
+      213: -2734409133092378747
+    second: exp_from_ground_02_10
+  - first:
+      213: 2603899463867908261
+    second: exp_from_ground_02_11
+  - first:
+      213: 437743324155591531
+    second: exp_from_ground_02_12
+  - first:
+      213: -1718942292243061095
+    second: exp_from_ground_02_13
+  - first:
+      213: 3208617050265238337
+    second: exp_from_ground_02_14
+  - first:
+      213: 3034398818253519802
+    second: exp_from_ground_02_15
+  - first:
+      213: 6042479466545432516
+    second: exp_from_ground_02_16
+  - first:
+      213: -5374354072460064690
+    second: exp_from_ground_02_17
+  - first:
+      213: -5248035103774980119
+    second: exp_from_ground_02_18
+  - first:
+      213: -2401289993437220911
+    second: exp_from_ground_02_19
+  - first:
+      213: 6020672464390173628
+    second: exp_from_ground_02_20
+  - first:
+      213: 6525795645735722218
+    second: exp_from_ground_02_21
+  - first:
+      213: 1623041714478051402
+    second: exp_from_ground_02_22
+  - first:
+      213: -4312672916836827158
+    second: exp_from_ground_02_23
+  - first:
+      213: -2045678364271632511
+    second: exp_from_ground_02_24
+  - first:
+      213: -6843606552916733812
+    second: exp_from_ground_02_25
+  - first:
+      213: 7923357291022041434
+    second: exp_from_ground_02_26
+  - first:
+      213: -2985089508740728107
+    second: exp_from_ground_02_27
+  - first:
+      213: -4141094205134215067
+    second: exp_from_ground_02_28
+  - first:
+      213: -4385786806621260072
+    second: exp_from_ground_02_29
+  - first:
+      213: -3787682868566456434
+    second: exp_from_ground_02_30
+  - first:
+      213: 6916720145168263659
+    second: exp_from_ground_02_31
+  - first:
+      213: -6959071150221777028
+    second: exp_from_ground_02_32
+  - first:
+      213: 7130562123286641529
+    second: exp_from_ground_02_33
+  - first:
+      213: -501914576168664980
+    second: exp_from_ground_02_34
+  - first:
+      213: -9047490538853353438
+    second: exp_from_ground_02_35
+  - first:
+      213: -4646838749568149895
+    second: exp_from_ground_02_36
+  - first:
+      213: -6231824541508182448
+    second: exp_from_ground_02_37
+  - first:
+      213: 494497552933585677
+    second: exp_from_ground_02_38
+  - first:
+      213: -5026201958115875266
+    second: exp_from_ground_02_39
+  - first:
+      213: -9136915312169525295
+    second: exp_from_ground_02_40
+  - first:
+      213: -426099787670198194
+    second: exp_from_ground_02_41
+  - first:
+      213: -548745668934486608
+    second: exp_from_ground_02_42
+  - first:
+      213: -4285650989647854606
+    second: exp_from_ground_02_43
+  - first:
+      213: 4101497109107326784
+    second: exp_from_ground_02_44
+  - first:
+      213: -3732322597757348339
+    second: exp_from_ground_02_45
+  - first:
+      213: -2364249332508099164
+    second: exp_from_ground_02_46
+  - first:
+      213: 5208328306505520932
+    second: exp_from_ground_02_47
+  - first:
+      213: 7725288714159569977
+    second: exp_from_ground_02_48
+  - first:
+      213: -1872417450705193607
+    second: exp_from_ground_02_49
+  - first:
+      213: 8840756648122227184
+    second: exp_from_ground_02_50
+  - first:
+      213: 6941392271339177896
+    second: exp_from_ground_02_51
+  - first:
+      213: 4644315888896392895
+    second: exp_from_ground_02_52
+  - first:
+      213: 9185360714283756031
+    second: exp_from_ground_02_53
+  - first:
+      213: -7038266211576758865
+    second: exp_from_ground_02_54
+  - first:
+      213: 7278586079769428039
+    second: exp_from_ground_02_55
+  - first:
+      213: -3322183693198835763
+    second: exp_from_ground_02_56
+  - first:
+      213: 1021895441069198783
+    second: exp_from_ground_02_57
+  - first:
+      213: 2432584568210450579
+    second: exp_from_ground_02_58
+  - first:
+      213: -6418883407155701152
+    second: exp_from_ground_02_59
+  - first:
+      213: 4536532873897154900
+    second: exp_from_ground_02_60
+  - first:
+      213: 4852028026582435717
+    second: exp_from_ground_02_61
+  - first:
+      213: 2716701568583006850
+    second: exp_from_ground_02_62
+  - first:
+      213: -7017726502086444008
+    second: exp_from_ground_02_63
+  - first:
+      213: -3541516338673935224
+    second: exp_from_ground_02_64
+  - first:
+      213: 5222957446564384133
+    second: exp_from_ground_02_65
+  - first:
+      213: 765933982450539599
+    second: exp_from_ground_02_66
+  - first:
+      213: 2272616149333717784
+    second: exp_from_ground_02_67
+  - first:
+      213: -3731311556503312945
+    second: exp_from_ground_02_68
+  - first:
+      213: 8294837685084090768
+    second: exp_from_ground_02_69
+  - first:
+      213: -4995526711295071412
+    second: exp_from_ground_02_70
+  - first:
+      213: -8360785037836686510
+    second: exp_from_ground_02_71
+  - first:
+      213: -8439216327004558667
+    second: exp_from_ground_02_72
+  - first:
+      213: -8149046464613382597
+    second: exp_from_ground_02_73
+  - first:
+      213: -6084305177917346124
+    second: exp_from_ground_02_74
+  - first:
+      213: -1900978522027935811
+    second: exp_from_ground_02_75
+  - first:
+      213: -8861592663383220259
+    second: exp_from_ground_02_76
+  - first:
+      213: 3019932688611960456
+    second: exp_from_ground_02_77
+  - first:
+      213: 8940284362901053128
+    second: exp_from_ground_02_78
+  - first:
+      213: -8550555270863611777
+    second: exp_from_ground_02_79
+  - first:
+      213: 8680597717833967182
+    second: exp_from_ground_02_80
+  - first:
+      213: -5452619583766950321
+    second: exp_from_ground_02_81
+  - first:
+      213: 998904582940869591
+    second: exp_from_ground_02_82
+  - first:
+      213: -8183166371905433470
+    second: exp_from_ground_02_83
+  - first:
+      213: 2716617259213897009
+    second: exp_from_ground_02_84
+  - first:
+      213: 5219910942709504755
+    second: exp_from_ground_02_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp_from_ground_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7c112961332890800000000000000
+      internalID: -7484083828162789954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36799cf5cc55298a0800000000000000
+      internalID: -6299878592469166237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74377cc6db54ccbe0800000000000000
+      internalID: -1455711899671366841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6db421e39b7c970800000000000000
+      internalID: 8775186075200771812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6022cd34c4f8800800000000000000
+      internalID: 616795528312784601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016d312cf9b794a0800000000000000
+      internalID: -6586591437465493234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc97bf8b47bbf4390800000000000000
+      internalID: -7831835116979914291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcb73b826f76e820800000000000000
+      internalID: 2947183067379776697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2acc5927770bd40800000000000000
+      internalID: 5598105670844719827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaabfe6ba4a94490800000000000000
+      internalID: -7761491426587989314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e177816d6d0ad0800000000000000
+      internalID: -2734409133092378747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04dae24c8e22420800000000000000
+      internalID: 2603899463867908261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bb71beb3d231600800000000000000
+      internalID: 437743324155591531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996e471b7171528e0800000000000000
+      internalID: -1718942292243061095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b325d053c478c20800000000000000
+      internalID: 3208617050265238337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_from_ground_02_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbdd4f5a95c1a20800000000000000
+      internalID: 3034398818253519802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 53861cb8d30138e47ac5e4ecc4546ca7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exp_from_ground_02_0: -7484083828162789954
+      exp_from_ground_02_1: -6299878592469166237
+      exp_from_ground_02_10: -2734409133092378747
+      exp_from_ground_02_11: 2603899463867908261
+      exp_from_ground_02_12: 437743324155591531
+      exp_from_ground_02_13: -1718942292243061095
+      exp_from_ground_02_14: 3208617050265238337
+      exp_from_ground_02_15: 3034398818253519802
+      exp_from_ground_02_2: -1455711899671366841
+      exp_from_ground_02_3: 8775186075200771812
+      exp_from_ground_02_4: 616795528312784601
+      exp_from_ground_02_5: -6586591437465493234
+      exp_from_ground_02_6: -7831835116979914291
+      exp_from_ground_02_7: 2947183067379776697
+      exp_from_ground_02_8: 5598105670844719827
+      exp_from_ground_02_9: -7761491426587989314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

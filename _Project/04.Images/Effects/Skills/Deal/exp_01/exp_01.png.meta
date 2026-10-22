@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 3948b6d24521e5144a2465b5073575d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2729880118976885161
+    second: exp_01_0
+  - first:
+      213: -8549235068934631972
+    second: exp_01_1
+  - first:
+      213: -2948575008589367160
+    second: exp_01_2
+  - first:
+      213: -4321100000244113230
+    second: exp_01_3
+  - first:
+      213: 913165689443554503
+    second: exp_01_4
+  - first:
+      213: 5813863251208976049
+    second: exp_01_5
+  - first:
+      213: -5037805010739326000
+    second: exp_01_6
+  - first:
+      213: 1907366245822078976
+    second: exp_01_7
+  - first:
+      213: -5629589939833392851
+    second: exp_01_8
+  - first:
+      213: 2569416140679597492
+    second: exp_01_9
+  - first:
+      213: 7388864622653158359
+    second: exp_01_10
+  - first:
+      213: 8905899910854994290
+    second: exp_01_11
+  - first:
+      213: -3141768839171948042
+    second: exp_01_12
+  - first:
+      213: -2567740802532187594
+    second: exp_01_13
+  - first:
+      213: 3384689761261274769
+    second: exp_01_14
+  - first:
+      213: 3972823679045248768
+    second: exp_01_15
+  - first:
+      213: 5573670581728620616
+    second: exp_01_16
+  - first:
+      213: -2324905577523578917
+    second: exp_01_17
+  - first:
+      213: -4608589483875463410
+    second: exp_01_18
+  - first:
+      213: -3097515517419100611
+    second: exp_01_19
+  - first:
+      213: -8146469421116294510
+    second: exp_01_20
+  - first:
+      213: -3494739164818747877
+    second: exp_01_21
+  - first:
+      213: -935095251462439137
+    second: exp_01_22
+  - first:
+      213: -9193265670955565125
+    second: exp_01_23
+  - first:
+      213: 7700185014398635991
+    second: exp_01_24
+  - first:
+      213: -8242952520852618030
+    second: exp_01_25
+  - first:
+      213: 6332302727613492151
+    second: exp_01_26
+  - first:
+      213: 6891797947381628113
+    second: exp_01_27
+  - first:
+      213: -4418784149508509753
+    second: exp_01_28
+  - first:
+      213: -7508077318740349302
+    second: exp_01_29
+  - first:
+      213: -1198509227660969236
+    second: exp_01_30
+  - first:
+      213: 3391073079810004717
+    second: exp_01_31
+  - first:
+      213: -163392069881893782
+    second: exp_01_32
+  - first:
+      213: 7714437352739590123
+    second: exp_01_33
+  - first:
+      213: 2878262033507004227
+    second: exp_01_34
+  - first:
+      213: 4225536543019898035
+    second: exp_01_35
+  - first:
+      213: 2206731093901836215
+    second: exp_01_36
+  - first:
+      213: 5032503646289300512
+    second: exp_01_37
+  - first:
+      213: 1651897676315166235
+    second: exp_01_38
+  - first:
+      213: 4695546332978509207
+    second: exp_01_39
+  - first:
+      213: 1878727394376601535
+    second: exp_01_40
+  - first:
+      213: 3638395262871940943
+    second: exp_01_41
+  - first:
+      213: -7944872623218816263
+    second: exp_01_42
+  - first:
+      213: 321949462925724493
+    second: exp_01_43
+  - first:
+      213: 2688609411464888030
+    second: exp_01_44
+  - first:
+      213: -3736239460655026613
+    second: exp_01_45
+  - first:
+      213: -5457004641323800057
+    second: exp_01_46
+  - first:
+      213: 851359719219092739
+    second: exp_01_47
+  - first:
+      213: -525019177387929451
+    second: exp_01_48
+  - first:
+      213: 5055188138944113949
+    second: exp_01_49
+  - first:
+      213: -4699211808227987903
+    second: exp_01_50
+  - first:
+      213: -5229092656457358850
+    second: exp_01_51
+  - first:
+      213: 5660575818429620471
+    second: exp_01_52
+  - first:
+      213: -2626414564121290251
+    second: exp_01_53
+  - first:
+      213: -2513908175739340492
+    second: exp_01_54
+  - first:
+      213: 5082134759201251734
+    second: exp_01_55
+  - first:
+      213: -9038301089717840495
+    second: exp_01_56
+  - first:
+      213: -8970285928074943746
+    second: exp_01_57
+  - first:
+      213: -5595497926254552030
+    second: exp_01_58
+  - first:
+      213: 8248705696208005060
+    second: exp_01_59
+  - first:
+      213: -1378213846723778649
+    second: exp_01_60
+  - first:
+      213: -1183870694433855633
+    second: exp_01_61
+  - first:
+      213: 3244802113174675821
+    second: exp_01_62
+  - first:
+      213: 7616202407380386498
+    second: exp_01_63
+  - first:
+      213: -262609867058201886
+    second: exp_01_64
+  - first:
+      213: 3018296489399176711
+    second: exp_01_65
+  - first:
+      213: -2120723170872080873
+    second: exp_01_66
+  - first:
+      213: 6278568577743972072
+    second: exp_01_67
+  - first:
+      213: 5712874536831876495
+    second: exp_01_68
+  - first:
+      213: 6553288443980741050
+    second: exp_01_69
+  - first:
+      213: -850617772458151310
+    second: exp_01_70
+  - first:
+      213: 7698281640190765200
+    second: exp_01_71
+  - first:
+      213: -166736816066612183
+    second: exp_01_72
+  - first:
+      213: -8995459311578369040
+    second: exp_01_73
+  - first:
+      213: -7262144284597714260
+    second: exp_01_74
+  - first:
+      213: 5503634872659682126
+    second: exp_01_75
+  - first:
+      213: 2080647715002113272
+    second: exp_01_76
+  - first:
+      213: -1032714115767326293
+    second: exp_01_77
+  - first:
+      213: -8438880403307090858
+    second: exp_01_78
+  - first:
+      213: -253970662690433526
+    second: exp_01_79
+  - first:
+      213: 2329645783104231056
+    second: exp_01_80
+  - first:
+      213: 3113941739417260464
+    second: exp_01_81
+  - first:
+      213: -7561319556931925682
+    second: exp_01_82
+  - first:
+      213: 6820200055951297345
+    second: exp_01_83
+  - first:
+      213: 7301287454444293581
+    second: exp_01_84
+  - first:
+      213: 173020791340182838
+    second: exp_01_85
+  - first:
+      213: 1441654822178333085
+    second: exp_01_86
+  - first:
+      213: 1908444530718716255
+    second: exp_01_87
+  - first:
+      213: -4893606569038330260
+    second: exp_01_88
+  - first:
+      213: 3890930270955480130
+    second: exp_01_89
+  - first:
+      213: 6159055070957325869
+    second: exp_01_90
+  - first:
+      213: -7243794832505835808
+    second: exp_01_91
+  - first:
+      213: -7379537397273865276
+    second: exp_01_92
+  - first:
+      213: -297458143447223653
+    second: exp_01_93
+  - first:
+      213: 4925169623388305009
+    second: exp_01_94
+  - first:
+      213: 9011987357312538475
+    second: exp_01_95
+  - first:
+      213: 6903350788794864327
+    second: exp_01_96
+  - first:
+      213: 3858741687889409298
+    second: exp_01_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1b403318b72e520800000000000000
+      internalID: 2729880118976885161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc6d620040b5980800000000000000
+      internalID: -8549235068934631972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888bf63e6ae8417d0800000000000000
+      internalID: -2948575008589367160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b06286a17e5804c0800000000000000
+      internalID: -4321100000244113230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c49b5c3b573cac00800000000000000
+      internalID: 913165689443554503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b63205e2ddfea050800000000000000
+      internalID: 5813863251208976049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3133fb80f161ab0800000000000000
+      internalID: -5037805010739326000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000abc2be73587a10800000000000000
+      internalID: 1907366245822078976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d213e1dc6cdafd1b0800000000000000
+      internalID: -5629589939833392851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdcc59dd5668a320800000000000000
+      internalID: 2569416140679597492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d331b6f9358a8660800000000000000
+      internalID: 7388864622653158359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e1bf88cc189b70800000000000000
+      internalID: 8905899910854994290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c3c6f2e13664d0800000000000000
+      internalID: -3141768839171948042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632eac5385d8d5cd0800000000000000
+      internalID: -2567740802532187594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19641eea765d8fe20800000000000000
+      internalID: 3384689761261274769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_01_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a0c0561e422730800000000000000
+      internalID: 3972823679045248768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3a8c70a9954ff14f89da9ed29c907ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exp_01_0: 2729880118976885161
+      exp_01_1: -8549235068934631972
+      exp_01_10: 7388864622653158359
+      exp_01_11: 8905899910854994290
+      exp_01_12: -3141768839171948042
+      exp_01_13: -2567740802532187594
+      exp_01_14: 3384689761261274769
+      exp_01_15: 3972823679045248768
+      exp_01_2: -2948575008589367160
+      exp_01_3: -4321100000244113230
+      exp_01_4: 913165689443554503
+      exp_01_5: 5813863251208976049
+      exp_01_6: -5037805010739326000
+      exp_01_7: 1907366245822078976
+      exp_01_8: -5629589939833392851
+      exp_01_9: 2569416140679597492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

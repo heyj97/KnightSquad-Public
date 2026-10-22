@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e94be233bb8e61945b6c7a6894e86667, type: 3}
+  m_Name: EQ_COMMON_ARMOR_CLOTH
+  m_EditorClassIdentifier: 
+  itemId: EQ_COMMON_ARMOR_CLOTH
+  itemName: "\uC5EC\uD589\uC790\uC758 \uCC9C\uC637"
+  itemType: 0
+  rarity: 3
+  type: 1
+  itemIcon: {fileID: 8268686111266815503, guid: ae5688d6f44ec9e438dadb9634c481fa, type: 3}
+  bonusHp: 10
+  bonusAttack: 0
+  bonusAttackSpeed: 0
+  bonusDefense: 2
+  bonusCriticalChance: 0
+  bonusCriticalDamageMultiplier: 0
+  specialEffects: []

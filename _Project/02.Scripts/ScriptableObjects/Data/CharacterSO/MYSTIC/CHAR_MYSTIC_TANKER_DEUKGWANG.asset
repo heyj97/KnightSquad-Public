@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9083283c17a884d917def3053fa076, type: 3}
+  m_Name: CHAR_MYSTIC_TANKER_DEUKGWANG
+  m_EditorClassIdentifier: 
+  characterId: CHAR_MYSTIC_TANKER_DEUKGWANG
+  characterName: "\uBC29\uD328\uB9C9\uC774 \uB4DD\uAD11"
+  rarity: 5
+  role: 2
+  characterIllust: {fileID: 21300000, guid: d87dcacca0d91a3439d9db7cd37400d1, type: 3}
+  characterIcon: {fileID: 21300000, guid: 18051d8573cd8b34998d9e5b9332fe25, type: 3}
+  characterPrefab: {fileID: 901240498186350482, guid: d5ff46b43a5c87d4d90059fef4418c46, type: 3}
+  baseMaxHp: 240
+  baseAttackPower: 11
+  baseAttackSpeed: 0.9
+  baseDefense: 45
+  baseCriticalChance: 0.08
+  baseCriticalDamageMultiplier: 1.55
+  skillsList:
+  - {fileID: 11400000, guid: d2d7f96ff2cac5b409528f4324ebd846, type: 2}
+  - {fileID: 11400000, guid: 566c867c32f5883479b1cc4d5aeff49c, type: 2}
+  - {fileID: 11400000, guid: 9e64f26c5de10974599e242a8611517e, type: 2}
+  - {fileID: 11400000, guid: 15c4e9262d817744bbbbb35a876cdba7, type: 2}

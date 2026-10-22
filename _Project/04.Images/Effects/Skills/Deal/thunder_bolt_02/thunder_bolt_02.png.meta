@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 4f9e9d52d407a93419fb57398dfe43f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4265576963517548042
+    second: thunder_bolt_02_0
+  - first:
+      213: 703760030862412716
+    second: thunder_bolt_02_1
+  - first:
+      213: -2235090950953842849
+    second: thunder_bolt_02_2
+  - first:
+      213: -766623865538644972
+    second: thunder_bolt_02_3
+  - first:
+      213: 2156394858092900587
+    second: thunder_bolt_02_4
+  - first:
+      213: -7744773493818547307
+    second: thunder_bolt_02_5
+  - first:
+      213: -1149173750692850569
+    second: thunder_bolt_02_6
+  - first:
+      213: 6560448868692830261
+    second: thunder_bolt_02_7
+  - first:
+      213: 8876056886066410269
+    second: thunder_bolt_02_8
+  - first:
+      213: 8331113952800253225
+    second: thunder_bolt_02_9
+  - first:
+      213: 8051670349933113559
+    second: thunder_bolt_02_10
+  - first:
+      213: 7976203317090692803
+    second: thunder_bolt_02_11
+  - first:
+      213: 6780957878797180163
+    second: thunder_bolt_02_12
+  - first:
+      213: -997656450224718745
+    second: thunder_bolt_02_13
+  - first:
+      213: 5390357334322318124
+    second: thunder_bolt_02_14
+  - first:
+      213: 3120933887948624618
+    second: thunder_bolt_02_15
+  - first:
+      213: -4961186147588469744
+    second: thunder_bolt_02_16
+  - first:
+      213: 980729552323591156
+    second: thunder_bolt_02_17
+  - first:
+      213: 4374324998572529266
+    second: thunder_bolt_02_18
+  - first:
+      213: 6137089932616358824
+    second: thunder_bolt_02_19
+  - first:
+      213: 8375167863281206515
+    second: thunder_bolt_02_20
+  - first:
+      213: 981588798163498186
+    second: thunder_bolt_02_21
+  - first:
+      213: 1837825869337097761
+    second: thunder_bolt_02_22
+  - first:
+      213: 2867496161234211320
+    second: thunder_bolt_02_23
+  - first:
+      213: -8949901899269068089
+    second: thunder_bolt_02_24
+  - first:
+      213: -6358928735814517318
+    second: thunder_bolt_02_25
+  - first:
+      213: -7089283697886188569
+    second: thunder_bolt_02_26
+  - first:
+      213: -6246997554577631805
+    second: thunder_bolt_02_27
+  - first:
+      213: 4370772497518031500
+    second: thunder_bolt_02_28
+  - first:
+      213: 7976203406727192304
+    second: thunder_bolt_02_29
+  - first:
+      213: 4322972968225321321
+    second: thunder_bolt_02_30
+  - first:
+      213: -4185350792666156458
+    second: thunder_bolt_02_31
+  - first:
+      213: -7956778978649089319
+    second: thunder_bolt_02_32
+  - first:
+      213: -3666498779762188953
+    second: thunder_bolt_02_33
+  - first:
+      213: 5387916110308818347
+    second: thunder_bolt_02_34
+  - first:
+      213: 6556839358497784780
+    second: thunder_bolt_02_35
+  - first:
+      213: -9079674878998292911
+    second: thunder_bolt_02_36
+  - first:
+      213: -3640821667199292015
+    second: thunder_bolt_02_37
+  - first:
+      213: -5766018530466794162
+    second: thunder_bolt_02_38
+  - first:
+      213: 2238140147059565569
+    second: thunder_bolt_02_39
+  - first:
+      213: -6859693661762742821
+    second: thunder_bolt_02_40
+  - first:
+      213: 4446022203138328567
+    second: thunder_bolt_02_41
+  - first:
+      213: -1302310840560213561
+    second: thunder_bolt_02_42
+  - first:
+      213: 6148298996754715992
+    second: thunder_bolt_02_43
+  - first:
+      213: 8332420623348674237
+    second: thunder_bolt_02_44
+  - first:
+      213: -4374532684222895925
+    second: thunder_bolt_02_45
+  - first:
+      213: 2201206134875477706
+    second: thunder_bolt_02_46
+  - first:
+      213: -3401708325468799118
+    second: thunder_bolt_02_47
+  - first:
+      213: 235486338129921375
+    second: thunder_bolt_02_48
+  - first:
+      213: 6395336156964381573
+    second: thunder_bolt_02_49
+  - first:
+      213: 8401843030577999568
+    second: thunder_bolt_02_50
+  - first:
+      213: 7573419242956021947
+    second: thunder_bolt_02_51
+  - first:
+      213: -1739711217922765305
+    second: thunder_bolt_02_52
+  - first:
+      213: 8665745091850924707
+    second: thunder_bolt_02_53
+  - first:
+      213: 7590873929422442660
+    second: thunder_bolt_02_54
+  - first:
+      213: 1851169874138517416
+    second: thunder_bolt_02_55
+  - first:
+      213: 9010561774675227625
+    second: thunder_bolt_02_56
+  - first:
+      213: 7479251899980974606
+    second: thunder_bolt_02_57
+  - first:
+      213: -3458586119265696505
+    second: thunder_bolt_02_58
+  - first:
+      213: -4775127813194463791
+    second: thunder_bolt_02_59
+  - first:
+      213: -1436750768047546190
+    second: thunder_bolt_02_60
+  - first:
+      213: 6823545962347107982
+    second: thunder_bolt_02_61
+  - first:
+      213: 7738643731628369893
+    second: thunder_bolt_02_62
+  - first:
+      213: -4702018889566081935
+    second: thunder_bolt_02_63
+  - first:
+      213: 7642320417981987042
+    second: thunder_bolt_02_64
+  - first:
+      213: -5863801070483855643
+    second: thunder_bolt_02_65
+  - first:
+      213: 7339355465816756508
+    second: thunder_bolt_02_66
+  - first:
+      213: -8842280033966720476
+    second: thunder_bolt_02_67
+  - first:
+      213: 180231452229399218
+    second: thunder_bolt_02_68
+  - first:
+      213: 6862674171649047479
+    second: thunder_bolt_02_69
+  - first:
+      213: 3716798998093072278
+    second: thunder_bolt_02_70
+  - first:
+      213: -6778022091961002666
+    second: thunder_bolt_02_71
+  - first:
+      213: -7374558005776701593
+    second: thunder_bolt_02_72
+  - first:
+      213: -6708330973576059347
+    second: thunder_bolt_02_73
+  - first:
+      213: 735553768542230131
+    second: thunder_bolt_02_74
+  - first:
+      213: -4162314704386896778
+    second: thunder_bolt_02_75
+  - first:
+      213: -8405872235845690464
+    second: thunder_bolt_02_76
+  - first:
+      213: 1066333800985111257
+    second: thunder_bolt_02_77
+  - first:
+      213: -8679693846468445693
+    second: thunder_bolt_02_78
+  - first:
+      213: -653463297877314263
+    second: thunder_bolt_02_79
+  - first:
+      213: 256438312184951284
+    second: thunder_bolt_02_80
+  - first:
+      213: -1414105199192844929
+    second: thunder_bolt_02_81
+  - first:
+      213: -3299356649058638948
+    second: thunder_bolt_02_82
+  - first:
+      213: 5878735881669321717
+    second: thunder_bolt_02_83
+  - first:
+      213: -2623962179032576441
+    second: thunder_bolt_02_84
+  - first:
+      213: -341696764928473554
+    second: thunder_bolt_02_85
+  - first:
+      213: 235965768007614845
+    second: thunder_bolt_02_86
+  - first:
+      213: 9020439888581567012
+    second: thunder_bolt_02_87
+  - first:
+      213: -534509049497388196
+    second: thunder_bolt_02_88
+  - first:
+      213: -1039055294805691986
+    second: thunder_bolt_02_89
+  - first:
+      213: 535642587209574023
+    second: thunder_bolt_02_90
+  - first:
+      213: -4513210560035201017
+    second: thunder_bolt_02_91
+  - first:
+      213: -2213786360050364736
+    second: thunder_bolt_02_92
+  - first:
+      213: -2349622255342366591
+    second: thunder_bolt_02_93
+  - first:
+      213: 9070533023541706137
+    second: thunder_bolt_02_94
+  - first:
+      213: 345791443729699797
+    second: thunder_bolt_02_95
+  - first:
+      213: 4694069157891781978
+    second: thunder_bolt_02_96
+  - first:
+      213: 8044430898353382465
+    second: thunder_bolt_02_97
+  - first:
+      213: -4179862224620430438
+    second: thunder_bolt_02_98
+  - first:
+      213: 754983085701945214
+    second: thunder_bolt_02_99
+  - first:
+      213: 8221481983326403769
+    second: thunder_bolt_02_100
+  - first:
+      213: 4239343077769830146
+    second: thunder_bolt_02_101
+  - first:
+      213: 5208533778318462252
+    second: thunder_bolt_02_102
+  - first:
+      213: 8331397810933960589
+    second: thunder_bolt_02_103
+  - first:
+      213: -749828561461156158
+    second: thunder_bolt_02_104
+  - first:
+      213: -7894757781670463456
+    second: thunder_bolt_02_105
+  - first:
+      213: -8378698958553758946
+    second: thunder_bolt_02_106
+  - first:
+      213: -3005372096247351453
+    second: thunder_bolt_02_107
+  - first:
+      213: -1499259545708743874
+    second: thunder_bolt_02_108
+  - first:
+      213: -7601161696509271642
+    second: thunder_bolt_02_109
+  - first:
+      213: -8745104606315238153
+    second: thunder_bolt_02_110
+  - first:
+      213: -1261225458778935636
+    second: thunder_bolt_02_111
+  - first:
+      213: -8682245064914201029
+    second: thunder_bolt_02_112
+  - first:
+      213: -4192199035107536768
+    second: thunder_bolt_02_113
+  - first:
+      213: -4809823261556042423
+    second: thunder_bolt_02_114
+  - first:
+      213: -3582411200333588995
+    second: thunder_bolt_02_115
+  - first:
+      213: -3762990139029591992
+    second: thunder_bolt_02_116
+  - first:
+      213: 6751028986534202655
+    second: thunder_bolt_02_117
+  - first:
+      213: 3256778625360521045
+    second: thunder_bolt_02_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thunder_bolt_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f972770a50adc4c0800000000000000
+      internalID: -4265576963517548042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0ca6f40244c900800000000000000
+      internalID: 703760030862412716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c4b34f9c5bf0e0800000000000000
+      internalID: -2235090950953842849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147b32f7a76c55f0800000000000000
+      internalID: -766623865538644972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be03b18c2bd0ded10800000000000000
+      internalID: 2156394858092900587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a51b7a89058490800000000000000
+      internalID: -7744773493818547307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774dfb4ff805d00f0800000000000000
+      internalID: -1149173750692850569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ac81cc756b0b50800000000000000
+      internalID: 6560448868692830261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f524e5b61e2b70800000000000000
+      internalID: 8876056886066410269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a5fbffff0e9370800000000000000
+      internalID: 8331113952800253225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fe4016874dbf60800000000000000
+      internalID: 8051670349933113559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceab7b38aa21be60800000000000000
+      internalID: 7976203317090692803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d9792834dca1e50800000000000000
+      internalID: 6780957878797180163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7a7c8ebc9722f0800000000000000
+      internalID: -997656450224718745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b04bcaf656eca40800000000000000
+      internalID: 5390357334322318124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder_bolt_02_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae218aee5d8cf4b20800000000000000
+      internalID: 3120933887948624618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0be41826185179843aea8d1f4fc2fa9f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thunder_bolt_02_0: -4265576963517548042
+      thunder_bolt_02_1: 703760030862412716
+      thunder_bolt_02_10: 8051670349933113559
+      thunder_bolt_02_11: 7976203317090692803
+      thunder_bolt_02_12: 6780957878797180163
+      thunder_bolt_02_13: -997656450224718745
+      thunder_bolt_02_14: 5390357334322318124
+      thunder_bolt_02_15: 3120933887948624618
+      thunder_bolt_02_2: -2235090950953842849
+      thunder_bolt_02_3: -766623865538644972
+      thunder_bolt_02_4: 2156394858092900587
+      thunder_bolt_02_5: -7744773493818547307
+      thunder_bolt_02_6: -1149173750692850569
+      thunder_bolt_02_7: 6560448868692830261
+      thunder_bolt_02_8: 8876056886066410269
+      thunder_bolt_02_9: 8331113952800253225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

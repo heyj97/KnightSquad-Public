@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 18cd032d832525e4285470ffb012c6b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2313059059293382032
+    second: sword_rain_02_0
+  - first:
+      213: 9163770734740325019
+    second: sword_rain_02_1
+  - first:
+      213: 5819644584805529461
+    second: sword_rain_02_2
+  - first:
+      213: -5321033168969778862
+    second: sword_rain_02_3
+  - first:
+      213: 90252630475155864
+    second: sword_rain_02_4
+  - first:
+      213: -6133163972541477279
+    second: sword_rain_02_5
+  - first:
+      213: -248577397679829393
+    second: sword_rain_02_6
+  - first:
+      213: -7621343272102805961
+    second: sword_rain_02_7
+  - first:
+      213: 5044926300447144040
+    second: sword_rain_02_8
+  - first:
+      213: 1782973551171024682
+    second: sword_rain_02_9
+  - first:
+      213: 552615507508584376
+    second: sword_rain_02_10
+  - first:
+      213: -4728654087958400786
+    second: sword_rain_02_11
+  - first:
+      213: -7465624345057407779
+    second: sword_rain_02_12
+  - first:
+      213: 1139633043293146064
+    second: sword_rain_02_13
+  - first:
+      213: -3199284902668759431
+    second: sword_rain_02_14
+  - first:
+      213: 3319785511656709797
+    second: sword_rain_02_15
+  - first:
+      213: -3564575912080363826
+    second: sword_rain_02_16
+  - first:
+      213: 2985196948373089777
+    second: sword_rain_02_17
+  - first:
+      213: -966990068379838795
+    second: sword_rain_02_18
+  - first:
+      213: -8267513838189029031
+    second: sword_rain_02_19
+  - first:
+      213: 8162794506177264146
+    second: sword_rain_02_20
+  - first:
+      213: -2333775870199627295
+    second: sword_rain_02_21
+  - first:
+      213: -2908805748198712612
+    second: sword_rain_02_22
+  - first:
+      213: 909844356781870074
+    second: sword_rain_02_23
+  - first:
+      213: -3753915815202983637
+    second: sword_rain_02_24
+  - first:
+      213: -1481458188471597776
+    second: sword_rain_02_25
+  - first:
+      213: -8054115728588719017
+    second: sword_rain_02_26
+  - first:
+      213: -7735160005877651094
+    second: sword_rain_02_27
+  - first:
+      213: 3381568890799622106
+    second: sword_rain_02_28
+  - first:
+      213: 971218029775370331
+    second: sword_rain_02_29
+  - first:
+      213: 6401808377569054791
+    second: sword_rain_02_30
+  - first:
+      213: -8467602598286196025
+    second: sword_rain_02_31
+  - first:
+      213: -170064696338839774
+    second: sword_rain_02_32
+  - first:
+      213: 563062760589349636
+    second: sword_rain_02_33
+  - first:
+      213: 7947711493620108909
+    second: sword_rain_02_34
+  - first:
+      213: 3973992874359522924
+    second: sword_rain_02_35
+  - first:
+      213: 4955407861917758539
+    second: sword_rain_02_36
+  - first:
+      213: -2247572364768608855
+    second: sword_rain_02_37
+  - first:
+      213: -4027394536166449433
+    second: sword_rain_02_38
+  - first:
+      213: 1753052129086273054
+    second: sword_rain_02_39
+  - first:
+      213: -3826512862052316414
+    second: sword_rain_02_40
+  - first:
+      213: -4610496526770854943
+    second: sword_rain_02_41
+  - first:
+      213: -3916572816435213742
+    second: sword_rain_02_42
+  - first:
+      213: 6720063294239201988
+    second: sword_rain_02_43
+  - first:
+      213: -2075466054038413028
+    second: sword_rain_02_44
+  - first:
+      213: 2031158556286367405
+    second: sword_rain_02_45
+  - first:
+      213: 5808158639403894306
+    second: sword_rain_02_46
+  - first:
+      213: -4809162572999839523
+    second: sword_rain_02_47
+  - first:
+      213: -6633401152171359873
+    second: sword_rain_02_48
+  - first:
+      213: 288095108417524659
+    second: sword_rain_02_49
+  - first:
+      213: 460900693771332810
+    second: sword_rain_02_50
+  - first:
+      213: -4784629891253604740
+    second: sword_rain_02_51
+  - first:
+      213: 3143053266566677673
+    second: sword_rain_02_52
+  - first:
+      213: 2842597387677659196
+    second: sword_rain_02_53
+  - first:
+      213: 8655400456973053360
+    second: sword_rain_02_54
+  - first:
+      213: 6717292163779826642
+    second: sword_rain_02_55
+  - first:
+      213: 1743916695063272031
+    second: sword_rain_02_56
+  - first:
+      213: -5925111478161611133
+    second: sword_rain_02_57
+  - first:
+      213: 188121976937443301
+    second: sword_rain_02_58
+  - first:
+      213: 2908399184477226746
+    second: sword_rain_02_59
+  - first:
+      213: 4909910890021240166
+    second: sword_rain_02_60
+  - first:
+      213: 4775893607856408248
+    second: sword_rain_02_61
+  - first:
+      213: 1957273933503353740
+    second: sword_rain_02_62
+  - first:
+      213: -6209353070279882381
+    second: sword_rain_02_63
+  - first:
+      213: -8319028006332996535
+    second: sword_rain_02_64
+  - first:
+      213: -3623074783930825365
+    second: sword_rain_02_65
+  - first:
+      213: 5179847071571698036
+    second: sword_rain_02_66
+  - first:
+      213: 6014607294327434967
+    second: sword_rain_02_67
+  - first:
+      213: -5822370812325749648
+    second: sword_rain_02_68
+  - first:
+      213: -3158272906621861255
+    second: sword_rain_02_69
+  - first:
+      213: 6564401508985857039
+    second: sword_rain_02_70
+  - first:
+      213: -1836566710636113325
+    second: sword_rain_02_71
+  - first:
+      213: 7356584783575737344
+    second: sword_rain_02_72
+  - first:
+      213: -3172672693611135570
+    second: sword_rain_02_73
+  - first:
+      213: 8474686786209123340
+    second: sword_rain_02_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword_rain_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a915a6a0d56efd0800000000000000
+      internalID: -2313059059293382032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9241577ee04c2f70800000000000000
+      internalID: 9163770734740325019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577fb548ae783c050800000000000000
+      internalID: 5819644584805529461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2593c7d5684e726b0800000000000000
+      internalID: -5321033168969778862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 313
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899248b0a44a04100800000000000000
+      internalID: 90252630475155864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 615
+        width: 313
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e0173acdf92eaa0800000000000000
+      internalID: -6133163972541477279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 615
+        width: 313
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e4a108c20ec8cf0800000000000000
+      internalID: -248577397679829393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 609
+        width: 313
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ebff27cac8b3690800000000000000
+      internalID: -7621343272102805961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 313
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8687d28bdbd230640800000000000000
+      internalID: 5044926300447144040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 296
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2737798ff46eb810800000000000000
+      internalID: 1782973551171024682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 296
+        width: 313
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfdb6e40e84ba700800000000000000
+      internalID: 552615507508584376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 296
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07a851922706eb0800000000000000
+      internalID: -4728654087958400786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc48567636c46890800000000000000
+      internalID: -7465624345057407779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db09cff63ac0df00800000000000000
+      internalID: 1139633043293146064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e8821e45bd993d0800000000000000
+      internalID: -3199284902668759431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rain_02_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae59c8755f321e20800000000000000
+      internalID: 3319785511656709797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 19d275df315e40a41a62c774d0d720ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sword_rain_02_0: -2313059059293382032
+      sword_rain_02_1: 9163770734740325019
+      sword_rain_02_10: 552615507508584376
+      sword_rain_02_11: -4728654087958400786
+      sword_rain_02_12: -7465624345057407779
+      sword_rain_02_13: 1139633043293146064
+      sword_rain_02_14: -3199284902668759431
+      sword_rain_02_15: 3319785511656709797
+      sword_rain_02_2: 5819644584805529461
+      sword_rain_02_3: -5321033168969778862
+      sword_rain_02_4: 90252630475155864
+      sword_rain_02_5: -6133163972541477279
+      sword_rain_02_6: -248577397679829393
+      sword_rain_02_7: -7621343272102805961
+      sword_rain_02_8: 5044926300447144040
+      sword_rain_02_9: 1782973551171024682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

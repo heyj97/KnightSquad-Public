@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 75fb11777effe984183f5da2fb61cfaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8760123173675760406
+    second: void_explosion_02_0
+  - first:
+      213: -5578831747435378368
+    second: void_explosion_02_1
+  - first:
+      213: 8174133315654728470
+    second: void_explosion_02_2
+  - first:
+      213: 4426152355458226048
+    second: void_explosion_02_3
+  - first:
+      213: 7929650265737448449
+    second: void_explosion_02_4
+  - first:
+      213: -2784946666432441097
+    second: void_explosion_02_5
+  - first:
+      213: 5056727821156793619
+    second: void_explosion_02_6
+  - first:
+      213: -8853957979467913691
+    second: void_explosion_02_7
+  - first:
+      213: 4424079776889393619
+    second: void_explosion_02_8
+  - first:
+      213: -1327773809843529073
+    second: void_explosion_02_9
+  - first:
+      213: -5384359436564991343
+    second: void_explosion_02_10
+  - first:
+      213: 2029081796236476727
+    second: void_explosion_02_11
+  - first:
+      213: -5028023634211198110
+    second: void_explosion_02_12
+  - first:
+      213: 7565244461501750728
+    second: void_explosion_02_13
+  - first:
+      213: -255302182595092902
+    second: void_explosion_02_14
+  - first:
+      213: -4204601155584817666
+    second: void_explosion_02_15
+  - first:
+      213: -7032058249060457354
+    second: void_explosion_02_16
+  - first:
+      213: -4913798607172501847
+    second: void_explosion_02_17
+  - first:
+      213: 2162021456066292992
+    second: void_explosion_02_18
+  - first:
+      213: 8182047172345002757
+    second: void_explosion_02_19
+  - first:
+      213: 8495873231155734619
+    second: void_explosion_02_20
+  - first:
+      213: -4033011965351452191
+    second: void_explosion_02_21
+  - first:
+      213: -5994543617387532214
+    second: void_explosion_02_22
+  - first:
+      213: 8578949315084654226
+    second: void_explosion_02_23
+  - first:
+      213: -3853988903882400302
+    second: void_explosion_02_24
+  - first:
+      213: -1901153798327481430
+    second: void_explosion_02_25
+  - first:
+      213: 2579068867314449235
+    second: void_explosion_02_26
+  - first:
+      213: -3586982329475784655
+    second: void_explosion_02_27
+  - first:
+      213: -3420874022487084070
+    second: void_explosion_02_28
+  - first:
+      213: 5928595977267617030
+    second: void_explosion_02_29
+  - first:
+      213: 5986917488898786877
+    second: void_explosion_02_30
+  - first:
+      213: -2758406615265899820
+    second: void_explosion_02_31
+  - first:
+      213: 5817065562439267225
+    second: void_explosion_02_32
+  - first:
+      213: 1199156927245077160
+    second: void_explosion_02_33
+  - first:
+      213: -6732296658568786570
+    second: void_explosion_02_34
+  - first:
+      213: 7534893926786468419
+    second: void_explosion_02_35
+  - first:
+      213: 1386460298489682534
+    second: void_explosion_02_36
+  - first:
+      213: -2461606801799517082
+    second: void_explosion_02_37
+  - first:
+      213: 7598984692470085018
+    second: void_explosion_02_38
+  - first:
+      213: 6148601467154164030
+    second: void_explosion_02_39
+  - first:
+      213: 2318586851552188305
+    second: void_explosion_02_40
+  - first:
+      213: -3734019686749019536
+    second: void_explosion_02_41
+  - first:
+      213: -6796393140380546843
+    second: void_explosion_02_42
+  - first:
+      213: -6488220277167423359
+    second: void_explosion_02_43
+  - first:
+      213: 2716202472346319710
+    second: void_explosion_02_44
+  - first:
+      213: 3119969274223530725
+    second: void_explosion_02_45
+  - first:
+      213: 4528616708623351922
+    second: void_explosion_02_46
+  - first:
+      213: -5879635139833753505
+    second: void_explosion_02_47
+  - first:
+      213: 2602313526739873509
+    second: void_explosion_02_48
+  - first:
+      213: 7029586269000342562
+    second: void_explosion_02_49
+  - first:
+      213: 2286046180395528427
+    second: void_explosion_02_50
+  - first:
+      213: -8214918637227774161
+    second: void_explosion_02_51
+  - first:
+      213: -1014308662658330149
+    second: void_explosion_02_52
+  - first:
+      213: 9072352603538225575
+    second: void_explosion_02_53
+  - first:
+      213: -3376497882689045321
+    second: void_explosion_02_54
+  - first:
+      213: -1815089396685502002
+    second: void_explosion_02_55
+  - first:
+      213: -6814195969831403028
+    second: void_explosion_02_56
+  - first:
+      213: 4385596198471291939
+    second: void_explosion_02_57
+  - first:
+      213: 2260594370215022510
+    second: void_explosion_02_58
+  - first:
+      213: 7415792107949954986
+    second: void_explosion_02_59
+  - first:
+      213: 3016389313182124695
+    second: void_explosion_02_60
+  - first:
+      213: 7148934273449297800
+    second: void_explosion_02_61
+  - first:
+      213: -6229295883123756826
+    second: void_explosion_02_62
+  - first:
+      213: -5196547946465654162
+    second: void_explosion_02_63
+  - first:
+      213: 1321203289940889265
+    second: void_explosion_02_64
+  - first:
+      213: -5264285426657241466
+    second: void_explosion_02_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: void_explosion_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4836cf26acd6680800000000000000
+      internalID: -8760123173675760406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049417865120492b0800000000000000
+      internalID: -5578831747435378368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b394231fa507170800000000000000
+      internalID: 8174133315654728470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 941
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08798d4dd1adc6d30800000000000000
+      internalID: 4426152355458226048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ccc5257e6cb0e60800000000000000
+      internalID: 7929650265737448449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d2ec13c1e959d0800000000000000
+      internalID: -2784946666432441097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db2e1692b1d2640800000000000000
+      internalID: 5056727821156793619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266491c02c602580800000000000000
+      internalID: -8853957979467913691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d15b770e1d756d30800000000000000
+      internalID: 4424079776889393619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a953a31ccc29de0800000000000000
+      internalID: -1327773809843529073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1927588be99e645b0800000000000000
+      internalID: -5384359436564991343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 315
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73103e4a42fb82c10800000000000000
+      internalID: 2029081796236476727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ba290f42fd83ab0800000000000000
+      internalID: -5028023634211198110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9dce51c52df860800000000000000
+      internalID: 7565244461501750728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9900840cf47cf0800000000000000
+      internalID: -255302182595092902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: void_explosion_02_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58b23a68146a5c0800000000000000
+      internalID: -4204601155584817666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d5eb4d818d22644f9d1fd18e367bb3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      void_explosion_02_0: -8760123173675760406
+      void_explosion_02_1: -5578831747435378368
+      void_explosion_02_10: -5384359436564991343
+      void_explosion_02_11: 2029081796236476727
+      void_explosion_02_12: -5028023634211198110
+      void_explosion_02_13: 7565244461501750728
+      void_explosion_02_14: -255302182595092902
+      void_explosion_02_15: -4204601155584817666
+      void_explosion_02_2: 8174133315654728470
+      void_explosion_02_3: 4426152355458226048
+      void_explosion_02_4: 7929650265737448449
+      void_explosion_02_5: -2784946666432441097
+      void_explosion_02_6: 5056727821156793619
+      void_explosion_02_7: -8853957979467913691
+      void_explosion_02_8: 4424079776889393619
+      void_explosion_02_9: -1327773809843529073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

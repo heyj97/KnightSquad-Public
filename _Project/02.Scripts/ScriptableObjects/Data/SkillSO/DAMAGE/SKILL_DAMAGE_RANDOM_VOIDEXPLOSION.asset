@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53f6b3d90c0aad448715c466b23f379, type: 3}
+  m_Name: SKILL_DAMAGE_RANDOM_VOIDEXPLOSION
+  m_EditorClassIdentifier: 
+  skillId: SKILL_DAMAGE_RANDOM_VOIDEXPLOSION
+  skillName: "\uC554\uD751\uD3ED\uBC1C"
+  description: "\uBB34\uC791\uC704 \uC801 \uBAAC\uC2A4\uD130\uC5D0\uAC8C \uACF5\uACA9\uB825\uC758
+    200.0% \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4."
+  skillIcon: {fileID: 8476884826276822437, guid: 42d1264b0e0ca44459ec8c4c7eec7014, type: 3}
+  skillEffectPrefab: {fileID: 5432265083037866369, guid: dbb680d4b70b0ba418aa65a2dd8b2fd6, type: 3}
+  skillType: 0
+  skillBuffStat: 0
+  skillTargetType: 1
+  effectMultiplier: 2
+  buffTime: 0
+  cooldown: 6

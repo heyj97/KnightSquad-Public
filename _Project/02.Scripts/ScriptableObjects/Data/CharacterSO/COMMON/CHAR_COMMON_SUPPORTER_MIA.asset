@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9083283c17a884d917def3053fa076, type: 3}
+  m_Name: CHAR_COMMON_SUPPORTER_MIA
+  m_EditorClassIdentifier: 
+  characterId: CHAR_COMMON_SUPPORTER_MIA
+  characterName: "\uACAC\uC2B5 \uCE58\uC720\uC0AC \uBBF8\uC544"
+  rarity: 0
+  role: 3
+  characterIllust: {fileID: 5256411408106793018, guid: f9932f4dea93dd7499061206254f9ebc, type: 3}
+  characterIcon: {fileID: 21300000, guid: d5bba1a3981e24242bfece4770b4f3e5, type: 3}
+  characterPrefab: {fileID: 6141993269411372184, guid: cc0f8d9ef500b934cbadb9c493cbb1cd, type: 3}
+  baseMaxHp: 110
+  baseAttackPower: 8
+  baseAttackSpeed: 1
+  baseDefense: 18
+  baseCriticalChance: 0.03
+  baseCriticalDamageMultiplier: 1.4
+  skillsList:
+  - {fileID: 11400000, guid: a409b3e17ccd48945a8865dae19e4d2e, type: 2}
+  - {fileID: 11400000, guid: 777a82288fbd58a4bb8fde0800dbf0a3, type: 2}
