@@ -3,7 +3,7 @@
 > **공개용 리소스 안내:** 이 저장소에는 외부 에셋 원본을 제외하고,
 > 직접 제작한 공개용 코드와 리소스만 포함되어 있습니다.
 >
-> **[게임 실행용 빌드 다운로드](https://github.com/heyj97/KnightSquad-Public/releases/download/1.0.1/Build.zip)**
+> **[게임 실행용 빌드 다운로드](https://github.com/heyj97/KnightSquad-Public/releases/latest/download/Build.zip)**
 
 Unity 2D URP로 제작 중인 **PC 파티 RPG 포트폴리오 프로젝트**입니다. 최대 네 명의 파티가 필드를 자동으로 전투하며, 플레이어는 캐릭터 선택과 스킬 사용, 파티 편성·성장·장비 관리를 맡습니다. 레이드에서는 보스 전투와 직접 조작하는 패턴 미니게임을 함께 진행합니다.
 
